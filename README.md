@@ -1,5 +1,5 @@
 -  Hi, I’m @Sanyog Tripathi.
--  I’m interested in Data.
+-  Talkb to me about "Data".
 -  I’m currently exploring ME.
 -  #Passionate_Coder
 <!---
