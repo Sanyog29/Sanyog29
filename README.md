@@ -1,6 +1,6 @@
 -  Hi, I’m @Sanyog Tripathi 👦
--  Talkb to me about "Data" 🔢
--  I’m currently exploring ME 🧑‍💻
+-  Talk to me about "Data" 🔢
+-  I’m currently exploring WEB/DATA/C.S 🧑‍💻
 -  #Passionate_Coder
 <!---
 Sanyog29/Sanyog29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
