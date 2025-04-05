@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Spring Boot, Kubernetes and Agentic AI**
 
-- 👯 I’m looking to collaborate on [ASTRA X](CONTACT ME)
-
 - 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
 - 💬 Ask me about **Data Science,Web,Competitive Programming**
