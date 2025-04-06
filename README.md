@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanyog29" alt="sanyog29" /></a> </p>
 
-- 🔭 I’m currently building [Kaushal Setu](In Progress)
+- 🔭 I’m currently building **Kaushal Setu** --> (In Progress)
 
 - 🌱 I’m currently learning **Spring Boot, Kubernetes and Agentic AI**
 
