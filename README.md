@@ -1,35 +1,112 @@
-<h1 align="center">Hi 👋, I'm Sanyog Tripathi (Apex Ace)</h1>
-<h3 align="center">An aspiring Data Scientist || Competitive Programmer || Web Explorer || Active Learner</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyog29&label=Profile%20views&color=0e75b6&style=flat" alt="sanyog29" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanyog29" alt="sanyog29" /></a> </p>
-
-- 🔭 I’m currently building **Kaushal Setu** --> (In Progress)
-
-- 🌱 I’m currently learning **Spring Boot, Kubernetes and Agentic AI**
-
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
-
-- 💬 Ask me about **Data Science,Web,Competitive Programming**
-
-- 📫 How to reach me **sanyogtripathi29@gmail.com**
-
-- ⚡ Fun fact **It’s all 0’s and 1’s 😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/sanyog-tripathi29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/sanyog29" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/apex_ace1001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/apex_ace1001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/sanyogtripathi29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sanyogtripathi29" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/apex_ace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/apex_ace" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/sanyog-tripathi_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sanyog-tripathi_01/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sanyog_29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sanyog_29/" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+<!--   <img src="https://raw.githubusercontent.com/sanyog29/sanyog29/main/banner.png" alt="Banner" width="100%" /> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm <strong>Sanyog Tripathi</strong> (aka <em>Apex Ace</em>)</h1>
+<h3 align="center">🚀 Aspiring Data Scientist | ⚔️ Competitive Programmer | 🌐 Full Stack Explorer | 🧠 Lifelong Learner</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyog29&show_icons=true&locale=en&layout=compact" alt="sanyog29" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanyog29&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanyog29&show_icons=true&locale=en" alt="sanyog29" /></p>
+---
+
+## 🔥 Contribution Streak & Activity Heatmap
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanyog29&theme=github-dark-blue" alt="sanyog29's streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanyog29&theme=github-compact&area=true&hide_border=true" alt="sanyog29's activity graph" />
+</p>
+
+---
+
+## ⚙️ Signature Projects
+
+| 💡 Project | Description | Tech Stack |
+|-----------|-------------|------------|
+| 🧠 **Yantrix** | ALU Simulator (Terminal UI) | C++ |
+| ⚙️ **AstraX** | Custom Code Editor | C++ |
+| 💾 **SmritiDB** | Lightweight File-based DB | C++ |
+| 🖥️ **TattvaVM** | Fully functional Java Virtual Machine with debugging tools | Java |
+| 🕹️ **EazeMoney** | Web Banking App - Full Stack | NERN |
+
+---
+
+## 🚀 Currently Building
+
+- 🛠️ **Kaushal Setu** — Skilling platform for future-ready learning
+
+---
+
+## 🌱 Currently Exploring
+
+- ☁️ Spring Boot, Redis
+- 🔐 Auth Systems
+- 🎯 Agentic AI
+- 🤖 LLM-based Applications
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/sanyog-tripathi29"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://codeforces.com/profile/apex_ace"><img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces" /></a>
+  <a href="https://www.codechef.com/users/apex_ace1001"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" /></a>
+  <a href="https://leetcode.com/u/sanyog-tripathi_01/"><img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode" /></a>
+  <a href="https://www.hackerrank.com/profile/sanyogtripathi29"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/sanyog_29/"><img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" /></a>
+</p>
+
+---
+
+## 🧠 Skills & Stack
+
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+
+### 🧩 Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
+
+### 📊 Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
+
+### 💾 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanyog29&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyog29&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I build things that don't exist yet – because why not? 🤯
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" />
+</p>
