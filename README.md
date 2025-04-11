@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<!--   <img src="https://raw.githubusercontent.com/sanyog29/sanyog29/main/banner.png" alt="Banner" width="100%" /> -->
+  <img src="https://github.com/Sanyog29/Sanyog29/blob/main/ChatGPT%20Image%20Apr%2011%2C%202025%2C%2010_36_33%20AM.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <strong>Sanyog Tripathi</strong> (aka <em>Apex Ace</em>)</h1>
